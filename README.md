@@ -19,6 +19,7 @@
 |---|---|---|
 |master|[微信小程序](https://github.com/maxiaoqu/applets-template/tree/master) | 该分支是基于WeUI开发的小程序案例
 |template-uniApp|[Uni-App小程序](https://github.com/maxiaoqu/applets-template/tree/template-uniApp) | 该分支是基于Uni-App开发的小程序案例
+|template-uniApp-ts|[Uni-App(TypeScrpt)小程序](https://github.com/maxiaoqu/applets-template/tree/template-uniApp) | 该分支是基于Uni-App开发的小程序案例
 |template-vant|[Vant-Weapp小程序](https://github.com/maxiaoqu/applets-template/tree/template-vant) | 该分支是基于Vant Weapp开发的小程序案例
 |template-iView|[iView Weapp小程序](https://github.com/maxiaoqu/applets-template/tree/template-iView) | 该分支是基于iView Weapp开发的小程序案例
 
@@ -35,6 +36,16 @@
 ## 安装
 ```
 npm install
+```
+
+## 运行
+```
+npm run serve
+```
+
+## 打包
+```
+npm run build
 ```
 
 ## 文件结构
