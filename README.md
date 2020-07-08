@@ -17,13 +17,6 @@
 ## 主要维护分支
 |人员|分支类型|分支说明|
 |---|---|---|
-<<<<<<< HEAD
-|master|[微信小程序](https://github.com/maxiaoqu/applets-template/tree/master) | 该分支是基于WeUI开发的小程序案例
-|template-uniApp|[Uni-App小程序](https://github.com/maxiaoqu/applets-template/tree/template-uniApp) | 该分支是基于Uni-App开发的小程序案例
-|template-uniApp-ts|[Uni-App(TypeScrpt)小程序](https://github.com/maxiaoqu/applets-template/tree/template-uniApp) | 该分支是基于Uni-App开发的小程序案例
-|template-vant|[Vant-Weapp小程序](https://github.com/maxiaoqu/applets-template/tree/template-vant) | 该分支是基于Vant Weapp开发的小程序案例
-|template-iView|[iView Weapp小程序](https://github.com/maxiaoqu/applets-template/tree/template-iView) | 该分支是基于iView Weapp开发的小程序案例
-=======
 |master|[案例小程序](https://github.com/maxiaoqu/applets-template/tree/master) | 该分支是基于Uni-App（TypeScript）开发的案例小程序
 |template-weChat|[微信小程序](https://github.com/maxiaoqu/applets-template/tree/template-weChat) | 该分支是基于WeUI开发的小程序框架
 |template-uniApp|[Uni-App小程序](https://github.com/maxiaoqu/applets-template/tree/template-uniAp) | 该分支是基于Uni-App开发的小程序框架
