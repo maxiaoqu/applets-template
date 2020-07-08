@@ -17,7 +17,7 @@
       }
     },
     onLoad() {
-
+      console.log('page onLoad')
     },
     methods: {}
   });
@@ -26,17 +26,17 @@
 <style>
   .content {
     text-align: center;
-    height: 400 upx;
+    height: 400upx;
   }
 
   .logo {
-    height: 200 upx;
-    width: 200 upx;
-    margin-top: 200 upx;
+    height: 200upx;
+    width: 200upx;
+    margin-top: 200upx;
   }
 
   .title {
-    font-size: 36 upx;
+    font-size: 36rpx;
     color: #8f8f94;
   }
 </style>
