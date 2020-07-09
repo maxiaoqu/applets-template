@@ -20,8 +20,8 @@
     },
     onLoad() {
       console.log('page onLoad')
-      getproductsalerate({})
-      deviceindicator({})
+      // getproductsalerate({})
+      // deviceindicator({})
       deviceTyperIndicatorRelation({})
     },
     methods: {}

@@ -44,7 +44,7 @@ $request.interceptor.fail = ((res: any, config: any) => {
   } else { // 其它错误
     msg = res.errMsg
   }
-  console.log('全局响应拦截', ret)
+  console.log('全局错误处理', ret)
   return ret;
 })
 
