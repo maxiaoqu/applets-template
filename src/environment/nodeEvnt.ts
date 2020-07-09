@@ -6,15 +6,15 @@ const nodeEnv = {
   port: '1024',
   // 数据接口
   dip: {
-    target: 'http://server.maxiaoqu.com:6666'
+    target: 'http://139.224.255.200:3011'
   },
   // ddPush推送接口
   pip: {
-    target: 'http://server.maxiaoqu.com:7777'
+    target: 'http://203.34.57.23:5000'
   },
   // Websocket接口
   wip: {
-    target: 'http://server.maxiaoqu.com:8888'
+    target: 'http://203.34.57.23:5000'
   },
   // 文件上传接口
   fip: {

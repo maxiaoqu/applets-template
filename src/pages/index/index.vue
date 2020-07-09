@@ -4,11 +4,13 @@
     <view>
       <text class="title">{{title}}</text>
     </view>
+
   </view>
 </template>
 
 <script lang="ts">
   import Vue from 'vue';
+  import {getproductsalerate, deviceindicator,deviceTyperIndicatorRelation} from "@/api/getdata";
 
   export default Vue.extend({
     data() {
@@ -18,6 +20,9 @@
     },
     onLoad() {
       console.log('page onLoad')
+      getproductsalerate({})
+      deviceindicator({})
+      deviceTyperIndicatorRelation({})
     },
     methods: {}
   });
