@@ -1,0 +1,28 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "首页"
+      }
+    },
+    {
+      "path": "pages/useVuex/vuex1",
+      "style": {
+        "navigationBarTitleText": "vuex使用一"
+      }
+    },
+    {
+      "path": "pages/useVuex/vuex2",
+      "style": {
+        "navigationBarTitleText": "vuex使用二（推荐）"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  }
+}
