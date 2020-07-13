@@ -4,7 +4,7 @@
   export default Vue.extend({
     mpType: 'app',
     onLaunch() {
-      console.log('App Launch',process.env)
+      console.log('App Launch', process.env)
     },
     onShow() {
       console.log('App Show')

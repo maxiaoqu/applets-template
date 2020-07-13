@@ -5,6 +5,18 @@
       "style": {
         "navigationBarTitleText": "首页"
       }
+    },
+    {
+      "path": "pages/useVuex/vuex1",
+      "style": {
+        "navigationBarTitleText": "vuex使用一"
+      }
+    },
+    {
+      "path": "pages/useVuex/vuex2",
+      "style": {
+        "navigationBarTitleText": "vuex使用二（推荐）"
+      }
     }
   ],
   "globalStyle": {
